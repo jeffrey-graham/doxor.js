@@ -80,6 +80,10 @@ From a CDN, without a bundler:
 
 doxor.js is ESM-only and ships its own TypeScript types.
 
+Try the [React example](examples/react) (`examples/react`):
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mojtaba-afraz/doxor.js/tree/main/examples/react)
+
 ## Declaring a database
 
 ```ts
